@@ -4,7 +4,7 @@
 * [Git](./git.md)
 * [gitHub](./github.md)
 * [MarkDown](./md.md)
-* [Apache, CGI及MySQL的C接口介绍](./Apache, CGI及MySQL的C接口介绍.md)
+* [Apache, CGI及MySQL的C接口有关操作](./Apache, CGI及MySQL的C接口介绍.md)
 
 # 课程设计
  * [学生信息管理系统](./stu.md)
