@@ -1,4 +1,7 @@
 # 技术文档
+* [linux](./linux.md)
+* [Git](./git.md)
+* [gitHub](./github.md)
 
 # 课程设计
  * [学生信息管理系统](./stu.md)
