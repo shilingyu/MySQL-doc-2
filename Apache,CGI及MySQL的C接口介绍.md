@@ -17,3 +17,6 @@
 * sudo chmod 777 /usr/lib/cgi-bin/sx
 
 ## 安装mysql的C语言库
+
+* sudo apt-get update
+* sudo apt-get install libmysqlclient-dev
