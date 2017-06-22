@@ -36,6 +36,25 @@
 |---------|-----|---------|-------|------|
 | 学号 | id | int(4) | | 为主键不可为空 |
 | 课程名称 | cno | char(4) | | 不可为空 |
-| 成绩 | grade | int(4) | 0 | 不为空 |
+| 成绩 | grade | int(4) | 0 | 不为空 |                    create table teacher(
+tno int(4) not null,
+cno int(4) not null,
+tname char(10) not null,
+tsex char(10) not null,
+tage int(4) not null,
+primary key(tno,cno),
+foreign key(cno) references course(cno)
+);
+
+
+## 教师信息表
+| 中文名称 | 表名 | 字段属性 | 默认值 | 备注 |
+|---------|-----|---------|-------|------|
+| 教师编号 | tno | int(4) | | 为主键不可为空 |
+| 教师姓名 | tanme | char(4) | | 不为空 |
+| 所授课程的课程编号 | cno | int(4) | 0 | 为外键不可为空 |
+| 性别 | tsex | char(10) |  | 不可为空 |
+| 年龄 | tage | int（4） | | 不为空 |
+
 
 
