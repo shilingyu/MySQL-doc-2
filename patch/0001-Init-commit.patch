@@ -1,0 +1,22 @@
+From 00d15809a4e79a6d6bae374d19efe08f236fdfb2 Mon Sep 17 00:00:00 2001
+From: "Richard.Wang" <wangleihd@gmail.com>
+Date: Wed, 14 Jun 2017 08:54:29 +0800
+Subject: [PATCH 1/5] Init commit
+
+Add new file hello.c
+
+diff --git a/hello.c b/hello.c
+new file mode 100644
+index 0000000..782a236
+--- /dev/null
++++ b/hello.c
+@@ -0,0 +1,6 @@
++#include <stdio.h>
++
++int main(void){
++    printf("hello world\n");
++    return 0;
++}
+-- 
+2.7.4
+

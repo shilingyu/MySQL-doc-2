@@ -1,0 +1,24 @@
+From 6a9c15fae819ae5ea04a0809c82879e1249c8f4a Mon Sep 17 00:00:00 2001
+From: "Richard.Wang" <wangleihd@gmail.com>
+Date: Wed, 14 Jun 2017 10:48:17 +0800
+Subject: [PATCH 2/5] new file
+
+Add new file demo.c
+
+diff --git a/demo.c b/demo.c
+new file mode 100644
+index 0000000..2d7c978
+--- /dev/null
++++ b/demo.c
+@@ -0,0 +1,8 @@
++#include <stdio.h>
++
++int main(void){
++    int i;
++    for(i = 0; i <= 100; i++)
++        printf("i = %d\n", i);
++    return 0;
++}
+-- 
+2.7.4
+

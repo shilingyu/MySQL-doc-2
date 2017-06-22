@@ -1,0 +1,27 @@
+From 9149a67ee5f8b0a67ca350561cb0087dd31f3ae5 Mon Sep 17 00:00:00 2001
+From: "Richard.Wang" <wangleihd@gmail.com>
+Date: Wed, 14 Jun 2017 11:32:02 +0800
+Subject: [PATCH 5/5] New files
+
+Add file .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..526b1d2
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++a.out
++tmp
+diff --git a/infor.c b/infor.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/stu.c b/stu.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/teach.c b/teach.c
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.7.4
+
