@@ -36,15 +36,7 @@
 |---------|-----|---------|-------|------|
 | 学号 | id | int(4) | | 为主键不可为空 |
 | 课程名称 | cno | char(4) | | 不可为空 |
-| 成绩 | grade | int(4) | 0 | 不为空 |                    create table teacher(
-tno int(4) not null,
-cno int(4) not null,
-tname char(10) not null,
-tsex char(10) not null,
-tage int(4) not null,
-primary key(tno,cno),
-foreign key(cno) references course(cno)
-);
+| 成绩 | grade | int(4) | 0 | 不为空 |                   
 
 
 ## 教师信息表
