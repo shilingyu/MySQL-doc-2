@@ -6,6 +6,7 @@
 * [MarkDown](./md.md)
 * [Apache, CGI及MySQL的C接口有关操作](./Apache,CGI及MySQL的C接口介绍.md)
 * [解决数据库插入数据乱码](./解决数据库乱码.md)
+* [实现数据的假删除操作](./实现数据的假删除操作.md)
 
 # 课程设计
  * [学生信息管理系统](./stu.md)
