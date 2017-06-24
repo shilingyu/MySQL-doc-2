@@ -1,6 +1,6 @@
 # 技术文档
 
-* [linux](./linux.md)
+* [ubuntu的安装](./ubuntu的安装.md)
 * [Git](./git.md)
 * [gitHub](./github.md)
 * [MarkDown](./md.md)
