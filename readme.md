@@ -3,7 +3,6 @@
 * [ubuntu的安装](./ubuntu安装.md)
 * [linux中vim的安装以及基本命令](./linux中vim的安装以及基本命令.md)
 * [Git](./git.md)
-* [gitHub](./github.md)
 * [MarkDown](./md.md)
 * [MYSQL的安装](./Mysql的安装.md)
 * [Apache, CGI及MySQL的C接口有关操作](./Apache,CGI及MySQL的C接口介绍.md)
