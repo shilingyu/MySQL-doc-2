@@ -1,7 +1,7 @@
 # Linux下vim的安装及基本命令
-### vim的安装
-   * 执行命令sudo apt-get install vim
-   * 安装完成 
+### vim的安装  
+   执行命令sudo apt-get install vim  
+   安装完成   
 ### vim命令行基本命令
    * i：在当前字符的左边插入
    * I：在当前行首插入
