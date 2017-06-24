@@ -3,4 +3,4 @@
 
 ## github的使用
 ### 创建仓库并完成初始化：
-    !{}(https://github.com/tianyanan0116/MySQL-doc/blob/master/img/11.png)
+    ![](https://github.com/tianyanan0116/MySQL-doc/blob/master/img/11.png)
