@@ -1,6 +1,7 @@
 # 技术文档
 
 * [ubuntu的安装](./ubuntu安装.md)
+* [linux中vim的安装及使用](./linux中vim的安装及使用.md)
 * [Git](./git.md)
 * [gitHub](./github.md)
 * [MarkDown](./md.md)
